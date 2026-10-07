@@ -179,7 +179,7 @@ builders in that module work without it too.
 Node 18 or later, for `node:crypto`; CI runs the suite on 20, 22 and 24.
 Browser
 verification lives in
-[erasable-anchor-verify](https://github.com/RecruiterLog/erasable-anchor-verify),
+[erasable-anchor-verify](https://github.com/Bitrora/erasable-anchor-verify),
 which uses Web Crypto and is deliberately a separate implementation: a
 verifier that imported this library would be checking its arithmetic with its
 own code.

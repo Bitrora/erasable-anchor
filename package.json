@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Merkle anchoring where deleting a record permanently severs its leaf, without invalidating any other proof.",
   "license": "Apache-2.0",
-  "author": "RecruiterLog",
-  "homepage": "https://github.com/RecruiterLog/erasable-anchor",
+  "author": "Bitrora",
+  "homepage": "https://github.com/Bitrora/erasable-anchor",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RecruiterLog/erasable-anchor.git"
+    "url": "git+https://github.com/Bitrora/erasable-anchor.git"
   },
   "bugs": {
-    "url": "https://github.com/RecruiterLog/erasable-anchor/issues"
+    "url": "https://github.com/Bitrora/erasable-anchor/issues"
   },
   "keywords": [
     "merkle",

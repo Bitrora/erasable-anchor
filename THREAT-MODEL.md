@@ -17,7 +17,7 @@ surprised and therefore where you should probably not spend your time.
 The construction: salted leaf commitments, canonical serialisation, Merkle tree
 building, proof generation and verification, and the on-chain payload format.
 That is `src/` in this repository, `SPEC.md`, and the verifiers in
-[erasable-anchor-verify](https://github.com/RecruiterLog/erasable-anchor-verify).
+[erasable-anchor-verify](https://github.com/Bitrora/erasable-anchor-verify).
 
 **Out of scope**: the RecruiterLog application, its database, its access
 control, its key management, and whether the facts it anchors are true. Those
@@ -180,7 +180,7 @@ To verify a live record end to end, against Solana rather than against us,
 without installing anything or cloning either repository:
 
 ```bash
-curl -sO https://raw.githubusercontent.com/RecruiterLog/erasable-anchor-verify/main/bin/verify-anchor.mjs
+curl -sO https://raw.githubusercontent.com/Bitrora/erasable-anchor-verify/main/bin/verify-anchor.mjs
 node verify-anchor.mjs f9ab4eff-01d5-49ef-a682-9b457b9e6d94
 ```
 
