@@ -157,9 +157,14 @@ ahead of anything cryptographic.
 5. Is there a simpler construction with the same properties? We would rather
    publish a smaller idea that is right.
 
-An adverse finding is publishable and will be published. The commitment is to
-publish the review whatever it concludes, and this document is written on that
-basis.
+**No independent review has been carried out yet.** Saying so costs less than
+letting an open repository and a written threat model imply one. This document
+exists so that a review can be done properly whenever one happens, funded or
+donated.
+
+Whatever comes back gets published, adverse findings included. That commitment
+does not depend on who pays for the work, and it is why the claims above are
+written to be broken rather than admired.
 
 ## 9. Running everything
 
